@@ -1,0 +1,34 @@
+** Intro
+
+This recipe attempts to combine the Penne Rigate with the sausage from
+the second reference recipe.
+
+** Final ingredients + locations
+
+*** from rabe recipe
+**** TODO  1 1/2 pounds sweet Italian sausage links, cut into 1-inch pieces
+
+*** from penne recipe
+**** TODO 1 lb penne rigate
+**** TODO 3 tablespoons unsalted butter
+**** DONE 3 tablespoons olive oil
+**** TODO 1/4 cup pine nuts (1 1/4 oz)
+**** TODO 1 teaspoon chopped garlic
+**** TODO 2 (8- to 10-oz) bags mixed salad greens with radicchio (often labeled "Italian" or "Mediterranean"; 16 to 20 cups) -- see if you can find all the parts fresh instead of bags
+**** DONE 1/2 teaspoon salt
+**** DONE 1/2 teaspoon black pepper
+**** TODO 1/2 cup finely grated Parmigiano-Reggiano, plus additional for serving
+
+** Prep items
+*** TODO heavy pot (5-6 quart)
+*** TODO colander
+*** TODO other cleaned, dried pot
+*** TODO cheese grater
+*** TODO 4-sided sheet pan
+
+** Reviews + lessons
+*** [2021-01-02 Sat]
+
+** References
+- [[https://www.epicurious.com/recipes/food/views/penne-rigate-with-mixed-greens-and-pine-nuts-232975][Penne Rigate with mixed greens and pine nuts | Epicurious]]
+- [[https://www.epicurious.com/recipes/food/views/broccoli-rabe-with-sweet-italian-sausage-351164][Broccoli Rabe with Sweet Italian Sausage]]
