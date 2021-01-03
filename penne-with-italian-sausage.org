@@ -4,30 +4,69 @@ This recipe attempts to combine the Penne Rigate with the sausage from
 the second reference recipe.
 
 ** Final ingredients + locations
+**** 1.75 lbs sweet Italian sausage links, cut into 1-inch pieces
+**** 1 lb penne rigate
+**** 5 tablespoons unsalted butter
+**** 6 tablespoons olive oil
+**** 1/4 cup pine nuts (1 1/4 oz)
+**** 4 teaspoon chopped garlic
+**** 2 (8- to 10-oz) bags mixed salad greens with radicchio (often labeled "Italian" or "Mediterranean")
+**** 1/2 teaspoon salt
+**** 1/2 teaspoon black pepper
+**** 1 cup finely grated Parmigiano-Reggiano, plus additional for serving
 
-*** from rabe recipe
-**** TODO  1 1/2 pounds sweet Italian sausage links, cut into 1-inch pieces
+** Required prep items
+*** heavy pot (5-6 quart)
+*** colander
+*** pot for pasta
+*** cheese grater
+*** frying pan for sausage
 
-*** from penne recipe
-**** TODO 1 lb penne rigate
-**** TODO 3 tablespoons unsalted butter
-**** DONE 3 tablespoons olive oil
-**** TODO 1/4 cup pine nuts (1 1/4 oz)
-**** TODO 1 teaspoon chopped garlic
-**** TODO 2 (8- to 10-oz) bags mixed salad greens with radicchio (often labeled "Italian" or "Mediterranean"; 16 to 20 cups) -- see if you can find all the parts fresh instead of bags
-**** DONE 1/2 teaspoon salt
-**** DONE 1/2 teaspoon black pepper
-**** TODO 1/2 cup finely grated Parmigiano-Reggiano, plus additional for serving
+** PREPARATION (from epicurious, with edits)
+Cook penne in boiling salted water in a 5- to 6-quart heavy pot until
+al dente or according to package directions, then drain in a colander. (Keep some of the pasta water).
 
-** Prep items
-*** TODO heavy pot (5-6 quart)
-*** TODO colander
-*** TODO other cleaned, dried pot
-*** TODO cheese grater
-*** TODO 4-sided sheet pan
+Combine 3 tablespoons of butter, 3 tablespoons oil, and pine nuts in cleaned and dried pot and cook
+over moderately high heat, stirring, until nuts are pale golden, about
+3 minutes. Add all garlic and cook, stirring, until garlic is golden,
+about 1 minute. Stir in greens and cook, stirring, until they wilt,
+about 3 minutes. 
 
+Slice sausages into 1-inch pieces, and cook in pan over medium heat for 2-3 minutes each side
+
+Add penne, salt, and pepper and toss to coat. Stir in
+cheese.
+
+Stir in sausage.
+
+Move mixture onto LOW heat / warm setting
+
+Add in remaining butter and olive oil, mixing and stirring.
+
+Serve with cheese on the side.
+
+
+** Modifications
+1. Buy up to 2 ls of sausage and add it, sliced.
+2. I pan-fried the sausage, and cooked 5-6 links partially in oil in
+   the pan for 4-5 minutes each side, medium heat, before taking each
+   out of the pan, slicing into 1-inch pieces, and then adding back
+   into the pan.
+3. Added extra garlic when wilting the greens
+4. When everything was together in the final pot, we added an extra 2
+   tablespoons of unsalted butter and poured olive oil over the final
+   mixture as we mixed it.
+5. We mixed in a lot more parmesean than what was in the original recipe (more like a full cup)
 ** Reviews + lessons
 *** [2021-01-02 Sat]
+
+1. Overall, recipe was well-received and more-than served a group of
+   5, though the greens could have been better mixed and benefited
+   from oil or butter and possibly some seasoning.
+2. This recipe was pretty easy, and took about an hour.
+3. It could use even more parmesean than the 1 cup, both on the side, and mixed in.
+
+
 
 ** References
 - [[https://www.epicurious.com/recipes/food/views/penne-rigate-with-mixed-greens-and-pine-nuts-232975][Penne Rigate with mixed greens and pine nuts | Epicurious]]
